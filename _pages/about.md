@@ -3,11 +3,11 @@ layout: about
 title: about
 permalink: /
 # description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
-description: Email. linmx@nus.edu.sg or meixia.lin.math@gmail.com
+description: Email. matbl@nus.edu.sg
 
 profile:
-  align: right
-  image: lmx.jpg
+  align: left
+  image: lb.jpg
 #  address: >
 #    <p>#08-23, Block S17 </p>
 #    <p>10 Lower Kent Ridge Road</p>
@@ -20,12 +20,11 @@ social: false  # includes social icons at the bottom of the page
 
 &nbsp;
 
-I am currently a research fellow in Institute of Operations Research and Analytics at National University of Singapore, working with Professor <a href="https://blog.nus.edu.sg/mattohkc/" style="color: black; text-decoration: underline;"> Kim-Chuan Toh</a> and Professor Subhroshekhar Ghosh. Before that, I was a research fellow at Department of Mathematics, National University of Singapore, hosted by Professor <a href="https://blog.nus.edu.sg/mattohkc/" style="color: black; text-decoration: underline;"> Kim-Chuan Toh</a>. I completed my Ph.D. in mathematics at National University of Singapore, where I was co-advised by Professor <a href="https://blog.nus.edu.sg/mattohkc/" style="color: black; text-decoration: underline;"> Kim-Chuan Toh</a> and Professor Chao Zhou. Previously, I graduated from Nanjing University in 2016 with a B.S. in Information and Computing Science. This is my [[CV]({{ site.url }}/assets/pdf/LinMeixia_CV.pdf)].
+I am currently a research fellow in the Department of Mathematics at National University of Singapore, working with Professor <a href="https://blog.nus.edu.sg/matbwz/" style="color: black; text-decoration: underline;"> Weizhu Bao</a> and Professor <a href="https://blog.nus.edu.sg/matcz/" style="color: black; text-decoration: underline;"> Zhenning Cai</a>. Previously, I obtained my PhD in the Department of Mathematics at National University of Singapore, and my supervisors are Professor <a href="https://blog.nus.edu.sg/matbwz/" style="color: black; text-decoration: underline;"> Weizhu Bao</a> and Professor <a href="https://blog.nus.edu.sg/matcz/" style="color: black; text-decoration: underline;"> Zhenning Cai</a>.  <!--- This is my [[CV]({{ site.url }}/assets/pdf/LinMeixia_CV.pdf)]. -->
 
 &nbsp;
 
 Current research interests:
-* Algorithm design for large-scale optimization problems in data science
-* Convex regression problems
-* Signal processing
-* Stochastic optimization
+* Structure-preserving methods for rarefied gas dynamics
+* Simulation of plasma physics
+* Parallel computing
