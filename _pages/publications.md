@@ -10,6 +10,7 @@ nav: true
 <!-- <sup>+</sup> equal contribution; <sup>*</sup> corresponding author. -->
 
 <h4>Preprints</h4>
+
 1. Cai, Z., Hu, J., Kuang, Y., & Lin, B. (2021). An entropic method for discrete systems with Gibbs entropy. arXiv:2106.12428.
  
 
