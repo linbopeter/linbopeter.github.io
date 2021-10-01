@@ -11,7 +11,7 @@ nav: true
 1. Chair, Minisymposium on "Recent Advances in Structured Non-Smooth Optimization" (virtual), SIAM Conference on Optimization 2021 (OP21), Jul. 20--23, 2021.
 -->
 <h4>Invited Talks</h4>
-1. "An entropic scheme for systems with mass conservation" (virtual), hang, Nanjing, China, Jul. 19, 2021.
+1. "An entropic scheme for systems with mass conservation" (virtual), Nanjing University of Aeronautics and Astronautics, Nanjing, China, Jul. 19, 2021.
 2. "An adaptive mesh refinement method and its parallel implementation in plasma simulations" (virtual), Forum on fluid interface and adaptive methods, Beijing, China, June 5, 2021.
 3. "A parallel simulator for streamer discharges in three dimensions", Workshop on Modeling and Simulation for Quantum Condensation, Fluids and Information, Singapore, Nov. 18--22, 2019. (<a href="https://imsarchives.nus.edu.sg/oldwww2/events/2019/quantum/files/bolin.pdf" style="color: blue;"> slides</a>)
 4. "An efficient and accurate parallel simulator for streamer discharges in three dimensions", The 7th NUS Graduate Symposium in Mathematics, Singapore, Apr 22, 2019.
