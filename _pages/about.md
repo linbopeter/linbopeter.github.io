@@ -6,7 +6,7 @@ permalink: /
 description: Email. matbl@nus.edu.sg
 
 profile:
-  align: left
+  align: right
   image: lb.jpg
 #  address: >
 #    <p>#08-23, Block S17 </p>
