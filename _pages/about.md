@@ -25,6 +25,6 @@ I am currently a research fellow in the Department of Mathematics at National Un
 &nbsp;
 
 Current research interests:
-* Structure-preserving methods for rarefied gas dynamics
-* Simulation of plasma physics
-* Parallel computing
+* Numerical simulation for plasma physics
+* Structure-preserving algorithms for gas dynamics
+* Efficient implementations in parallel computing
