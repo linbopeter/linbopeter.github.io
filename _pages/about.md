@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
 
 &nbsp;
 
-I am currently a research fellow in the Department of Mathematics at National University of Singapore, working with Professor <a href="https://blog.nus.edu.sg/matbwz/" style="color: black; text-decoration: underline;"> Weizhu Bao</a> and Professor <a href="https://blog.nus.edu.sg/matcz/" style="color: black; text-decoration: underline;"> Zhenning Cai</a>. Previously, I obtained my PhD in the Department of Mathematics at National University of Singapore, and my supervisors are Professor <a href="https://blog.nus.edu.sg/matbwz/" style="color: black; text-decoration: underline;"> Weizhu Bao</a> and Professor <a href="https://blog.nus.edu.sg/matcz/" style="color: black; text-decoration: underline;"> Zhenning Cai</a>.  
+I am currently a research fellow in the Department of Mathematics at National University of Singapore, working with Professor <a href="https://blog.nus.edu.sg/matbwz/" style="text-decoration: underline;"> Weizhu Bao</a> and Professor <a href="https://blog.nus.edu.sg/matcz/" style="text-decoration: underline;"> Zhenning Cai</a>. Previously, I obtained my PhD in the Department of Mathematics at National University of Singapore, and my supervisors are Professor <a href="https://blog.nus.edu.sg/matbwz/" style="text-decoration: underline;"> Weizhu Bao</a> and Professor <a href="https://blog.nus.edu.sg/matcz/" style="text-decoration: underline;"> Zhenning Cai</a>.  
 
 This is my [[CV]({{ site.url }}/assets/pdf/CV_BoLin.pdf)].
 
