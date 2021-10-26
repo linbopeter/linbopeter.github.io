@@ -16,3 +16,7 @@ nav: true
 3. "A parallel simulator for streamer discharges in three dimensions", Workshop on Modeling and Simulation for Quantum Condensation, Fluids and Information, Singapore, Nov. 18--22, 2019. (<a href="https://imsarchives.nus.edu.sg/oldwww2/events/2019/quantum/files/bolin.pdf" style="color: blue;"> slides</a>)
 4. "An efficient and accurate parallel simulator for streamer discharges in three dimensions", The 7th NUS Graduate Symposium in Mathematics, Singapore, Apr 22, 2019.
 5. "An efficient and accurate parallel simulator for streamer discharges in three dimensions", SIAM Conference on Computational Science and Engineering (CSE19), 2019, Spokane, Washington, U.S., Feb. 25 -- Mar. 1, 2019.
+
+<h4>Improvement to Software</h4>
+* PETSc version (<a href="https://lists.mcs.anl.gov/pipermail/petsc-announce/2018/000068.html"> 3.10</a>)
+* Chombo
